@@ -110,6 +110,13 @@
   margin-left: 0.5rem;
 }
 
+.update {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
